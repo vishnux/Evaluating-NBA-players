@@ -2,11 +2,11 @@
 
 Utilized National Basketball Association (NBA) player's statistics based on physical and statistical characteristics to answer three guiding questions:
 
-1)Using classification models (Logistic Regression, Classification Trees, Random Forest, Gradient Boosted Trees) can we apply NBA players' weights and heights to classify players based on positions?
+1) Using classification models (Logistic Regression, Classification Trees, Random Forest, Gradient Boosted Trees) can we apply NBA players' weights and heights to classify players based on positions?
 
-2)Using classification models (Logistic Regression, Classification Trees, Random Forest, Gradient Boosted Trees) can we apply NBA players' in-game statistics to classify players based on positions?
+2) Using classification models (Logistic Regression, Classification Trees, Random Forest, Gradient Boosted Trees) can we apply NBA players' in-game statistics to classify players based on positions?
 
-3)Using PCA and K Means clustering can we find similar groups of players for each position and discover the most productive players and seasons by position?
+3) Using PCA and K Means clustering can we find similar groups of players for each position and discover the most productive players and seasons by position?
 
 The five positions that exist in the NBA are Point Guard (PG), Shooting Guard (SG), Small Forward (SG), Power Forward (PF), and Center (C). We will take advantage of both the statistical outputs of these players and their physical characteristics to classify players by position. Furthermore, we will then implement dimensionality reduction and k-means clustering for each position. This will help us find the players with similar play styles within the positions and the outstanding players that are the best or most productive at those positions.
 
